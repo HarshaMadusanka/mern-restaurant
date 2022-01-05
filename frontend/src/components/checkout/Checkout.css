@@ -1,0 +1,12 @@
+.checkout__details{
+    margin: 74px 20px;
+    padding: 20px 30px;
+    box-shadow: 0px 0px 30px 1px rgba(199, 198, 198, 0.363);
+    border-radius:1.4rem;
+}
+.checkout__details h5{
+    margin-bottom: 20px;
+}
+.checkout__details h4{
+    margin-bottom: 30px;
+}

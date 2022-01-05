@@ -1,0 +1,32 @@
+.header{
+    margin-top:30px;
+}
+.header__nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__nav-bar li a{
+    text-decoration: none;
+    color: #000;
+}
+.header__nav-bar li{
+    list-style: none;
+    font-size:1.2rem;
+    font-family: 'Raleway',sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+}
+.header__nav-bar__nav-items{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+}
+.header__nav-bar__nav-item{
+    padding: 0 30px;
+}
+.header__nav-bar__nav-item a{
+    text-decoration: none;
+    color: #000;
+}

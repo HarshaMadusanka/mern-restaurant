@@ -1,0 +1,15 @@
+button{
+    padding: 10px 40px;
+    border: none;
+    border-radius:0.8rem;
+    font-size: 1.3rem;
+    font-family: 'Raleway',sans-serif;
+    font-weight: 600;
+    transition: all 0.3s ease-in-out;
+    background-color:#32f03c;
+    color: #fff;
+}
+
+button:hover{
+    box-shadow:10px 10px 20px 0.2px rgba(31, 241, 24, 0.589);
+}

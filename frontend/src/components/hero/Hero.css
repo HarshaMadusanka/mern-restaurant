@@ -1,0 +1,22 @@
+.hero{
+    padding: 80px 0px;
+}
+.hero__header{
+    font-family: 'Raleway',sans-serif;
+    font-size:4.3rem;
+    font-weight:900;
+    margin: 50px 0px;
+    color: #0aeb15;
+}
+.hero__description{
+    font-family: 'OpenSans',sans-serif;
+    font-size:1.2rem;
+    margin-bottom: 50px;
+    color: rgb(139, 139, 139);
+}
+.hero__image{
+    text-align: center;
+}
+img{
+    width: 80%;
+}
